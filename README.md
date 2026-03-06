@@ -2,7 +2,6 @@
 
 👨‍💻 Estudiante de Ingeniería en Ciencia de Datos en la UPB <br/>
 📱 Desarrollador de APIs y apps modernas<br/>
-🧠 Dev oficial de una agenda inteligente<br/>
 🚀 Siempre aprendiendo y creando cosas cool<br/>
 
 
